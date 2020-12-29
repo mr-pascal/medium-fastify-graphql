@@ -2,9 +2,22 @@
 
 Small boilerplate to get started with [Fastify](https://www.fastify.io/) and [GraphQL](https://graphql.org/) using [mercurius](https://github.com/mercurius-js/mercurius).
 
+#### Getting started
+
+```
+### Install all modules
+npm run install
+
+### Start local server on `http://localhost:8080/`
+npm run dev
+```
+
+GraphQL Playground: http://localhost:8080/playground
+
+GraphQL Endpoint: http://localhost:8080/graphql
 
 
-#### Commands
+#### NPM Commands
 
 Using the below command substituting `XXX` in `npm run XXX`.
 
