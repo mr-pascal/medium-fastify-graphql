@@ -6,7 +6,7 @@ Small boilerplate to get started with [Fastify](https://www.fastify.io/) and [Gr
 
 ```
 ### Install all modules
-npm run install
+npm install
 
 ### Start local server on `http://localhost:8080/`
 npm run dev
